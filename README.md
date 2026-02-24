@@ -83,6 +83,7 @@ deepfoundry/
 │   ├── models/
 │   │   └── model_builder.py
 │   │
+     Explainability: Grad-CAM
 │   ├── training/
 │   │   └── trainer.py
 │   │
@@ -92,3 +93,10 @@ deepfoundry/
 │   │
 │   └── explainability/
 │       └── gradcam.py
+
+```
+## 🧪 Technical Stack
+- Frontend: Streamlit
+- Backend: TensorFlow / Keras
+- Data Processing: NumPy, Pandas
+- Visualization: Matplotlib
