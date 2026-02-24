@@ -20,6 +20,11 @@ The application emphasizes:
 
 ---
 
+## 🏗️ System Architecture
+
+Dataset → Preprocessing → Model Design → Training → Evaluation → Inference → Explainability
+---
+
 ## 🚀 Features
 
 ### 📁 Dataset Management
